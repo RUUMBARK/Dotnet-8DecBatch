@@ -1,0 +1,14 @@
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\bin\Debug\netcoreapp3.1\CSharp-Assignment7_4.exe
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\bin\Debug\netcoreapp3.1\CSharp-Assignment7_4.deps.json
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\bin\Debug\netcoreapp3.1\CSharp-Assignment7_4.runtimeconfig.json
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\bin\Debug\netcoreapp3.1\CSharp-Assignment7_4.runtimeconfig.dev.json
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\bin\Debug\netcoreapp3.1\CSharp-Assignment7_4.dll
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\bin\Debug\netcoreapp3.1\CSharp-Assignment7_4.pdb
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\obj\Debug\netcoreapp3.1\CSharp-Assignment7_4.csproj.AssemblyReference.cache
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\obj\Debug\netcoreapp3.1\CSharp-Assignment7_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\obj\Debug\netcoreapp3.1\CSharp-Assignment7_4.AssemblyInfoInputs.cache
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\obj\Debug\netcoreapp3.1\CSharp-Assignment7_4.AssemblyInfo.cs
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\obj\Debug\netcoreapp3.1\CSharp-Assignment7_4.csproj.CoreCompileInputs.cache
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\obj\Debug\netcoreapp3.1\CSharp-Assignment7_4.dll
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\obj\Debug\netcoreapp3.1\CSharp-Assignment7_4.pdb
+C:\Users\RUUMBARK\source\repos\CSharp-Assignment7_4\CSharp-Assignment7_4\obj\Debug\netcoreapp3.1\CSharp-Assignment7_4.genruntimeconfig.cache

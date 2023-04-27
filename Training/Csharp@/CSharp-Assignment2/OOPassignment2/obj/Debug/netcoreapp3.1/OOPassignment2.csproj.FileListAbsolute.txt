@@ -1,0 +1,14 @@
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\obj\Debug\netcoreapp3.1\OOPassignment2.csproj.AssemblyReference.cache
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\obj\Debug\netcoreapp3.1\OOPassignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\obj\Debug\netcoreapp3.1\OOPassignment2.AssemblyInfoInputs.cache
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\obj\Debug\netcoreapp3.1\OOPassignment2.AssemblyInfo.cs
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\obj\Debug\netcoreapp3.1\OOPassignment2.csproj.CoreCompileInputs.cache
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\bin\Debug\netcoreapp3.1\OOPassignment2.exe
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\bin\Debug\netcoreapp3.1\OOPassignment2.deps.json
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\bin\Debug\netcoreapp3.1\OOPassignment2.runtimeconfig.json
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\bin\Debug\netcoreapp3.1\OOPassignment2.runtimeconfig.dev.json
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\bin\Debug\netcoreapp3.1\OOPassignment2.dll
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\bin\Debug\netcoreapp3.1\OOPassignment2.pdb
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\obj\Debug\netcoreapp3.1\OOPassignment2.dll
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\obj\Debug\netcoreapp3.1\OOPassignment2.pdb
+C:\Users\RUUMBARK\source\repos\OOPassignment2\OOPassignment2\obj\Debug\netcoreapp3.1\OOPassignment2.genruntimeconfig.cache

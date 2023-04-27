@@ -1,0 +1,16 @@
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\bin\Debug\net5.0\CSharpCode.Employee.exe
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\bin\Debug\net5.0\CSharpCode.Employee.deps.json
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\bin\Debug\net5.0\CSharpCode.Employee.runtimeconfig.json
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\bin\Debug\net5.0\CSharpCode.Employee.runtimeconfig.dev.json
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\bin\Debug\net5.0\CSharpCode.Employee.dll
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\bin\Debug\net5.0\ref\CSharpCode.Employee.dll
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\bin\Debug\net5.0\CSharpCode.Employee.pdb
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\CSharpCode.Employee.csproj.AssemblyReference.cache
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\CSharpCode.Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\CSharpCode.Employee.AssemblyInfoInputs.cache
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\CSharpCode.Employee.AssemblyInfo.cs
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\CSharpCode.Employee.csproj.CoreCompileInputs.cache
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\CSharpCode.Employee.dll
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\ref\CSharpCode.Employee.dll
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\CSharpCode.Employee.pdb
+C:\Users\RUUMBARK\source\repos\CSharpCode.Employee\CSharpCode.Employee\obj\Debug\net5.0\CSharpCode.Employee.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\bin\Debug\netcoreapp3.1\Assignment3Stack.exe
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\bin\Debug\netcoreapp3.1\Assignment3Stack.deps.json
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\bin\Debug\netcoreapp3.1\Assignment3Stack.runtimeconfig.json
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\bin\Debug\netcoreapp3.1\Assignment3Stack.runtimeconfig.dev.json
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\bin\Debug\netcoreapp3.1\Assignment3Stack.dll
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\bin\Debug\netcoreapp3.1\Assignment3Stack.pdb
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\obj\Debug\netcoreapp3.1\Assignment3Stack.csproj.AssemblyReference.cache
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\obj\Debug\netcoreapp3.1\Assignment3Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\obj\Debug\netcoreapp3.1\Assignment3Stack.AssemblyInfoInputs.cache
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\obj\Debug\netcoreapp3.1\Assignment3Stack.AssemblyInfo.cs
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\obj\Debug\netcoreapp3.1\Assignment3Stack.csproj.CoreCompileInputs.cache
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\obj\Debug\netcoreapp3.1\Assignment3Stack.dll
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\obj\Debug\netcoreapp3.1\Assignment3Stack.pdb
+C:\Users\RUUMBARK\source\repos\Assignment3Stack\Assignment3Stack\obj\Debug\netcoreapp3.1\Assignment3Stack.genruntimeconfig.cache

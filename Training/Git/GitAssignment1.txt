@@ -1,0 +1,282 @@
+
+ruumbark@LIN24006770 MINGW64 ~
+$ mkdir project2_dir
+
+ruumbark@LIN24006770 MINGW64 ~
+$ cd project2_dir
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir
+$ git init
+Initialized empty Git repository in C:/Users/RUUMBARK/project2_dir/.git/
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git commit -m "initial commit"
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ touch info.txt
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        info.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git commit -m "commit change"
+[master (root-commit) d0a7533] commit change
+ Committer: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 info.txt
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ touch .gitignore
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   .gitignore
+
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git commit -a -m "change done"
+[master 9422d32] change done
+ Committer: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git log
+commit 9422d322ff8cbe873920993b67c2c01bcff7f256 (HEAD -> master)
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:45:16 2022 +0530
+
+    change done
+
+commit d0a7533572a3a52f1d484947709abd406d6126a2
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:42:22 2022 +0530
+
+    commit change
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git revert
+usage: git revert [--[no-]edit] [-n] [-m <parent-number>] [-s] [-S[<keyid>]] <commit>...
+   or: git revert (--continue | --skip | --abort | --quit)
+
+    --quit                end revert or cherry-pick sequence
+    --continue            resume revert or cherry-pick sequence
+    --abort               cancel revert or cherry-pick sequence
+    --skip                skip current commit and continue
+    --cleanup <mode>      how to strip spaces and #comments from message
+    -n, --no-commit       don't automatically commit
+    -e, --edit            edit the commit message
+    -s, --signoff         add a Signed-off-by trailer
+    -m, --mainline <parent-number>
+                          select mainline parent
+    --rerere-autoupdate   update the index with reused conflict resolution if possible
+    --strategy <strategy>
+                          merge strategy
+    -X, --strategy-option <option>
+                          option for merge strategy
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+    --reference           use the 'reference' format to refer to commits
+
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git commit -a -m "commit again"
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ cd project2_dir
+bash: cd: project2_dir: No such file or directory
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git log
+commit 9422d322ff8cbe873920993b67c2c01bcff7f256 (HEAD -> master)
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:45:16 2022 +0530
+
+    change done
+
+commit d0a7533572a3a52f1d484947709abd406d6126a2
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:42:22 2022 +0530
+
+    commit change
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git log
+commit 9422d322ff8cbe873920993b67c2c01bcff7f256 (HEAD -> master)
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:45:16 2022 +0530
+
+    change done
+
+commit d0a7533572a3a52f1d484947709abd406d6126a2
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:42:22 2022 +0530
+
+    commit change
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git commit -m "message"
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git log
+commit 9422d322ff8cbe873920993b67c2c01bcff7f256 (HEAD -> master)
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:45:16 2022 +0530
+
+    change done
+
+commit d0a7533572a3a52f1d484947709abd406d6126a2
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:42:22 2022 +0530
+
+    commit change
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git myAdd .
+git: 'myAdd' is not a git command. See 'git --help'.
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git commit -m "commit myAdd"
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git log
+commit 9422d322ff8cbe873920993b67c2c01bcff7f256 (HEAD -> master)
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:45:16 2022 +0530
+
+    change done
+
+commit d0a7533572a3a52f1d484947709abd406d6126a2
+Author: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Date:   Fri Dec 30 09:42:22 2022 +0530
+
+    commit change
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ ^C
+bash: :s^C: substitution failed
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git myAdd
+git: 'myAdd' is not a git command. See 'git --help'.
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git commit -m "commit"
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/project2_dir (master)
+$ git commit -m "commit"
+On branch master
+nothing to commit, working tree clean

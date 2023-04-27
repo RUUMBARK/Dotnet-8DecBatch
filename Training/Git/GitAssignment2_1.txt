@@ -1,0 +1,129 @@
+ruumbark@LIN24006770 MINGW64 ~
+$ mkdir Assignment1
+
+ruumbark@LIN24006770 MINGW64 ~
+$ cd Assignment1
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1
+$ touch README.txt
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1
+$ git add .
+fatal: not a git repository (or any of the parent directories): .git
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1
+$ git init
+Initialized empty Git repository in C:/Users/RUUMBARK/Assignment1/.git/
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.txt
+
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git commit -m "readme file committed"
+[master (root-commit) be750d9] readme file committed
+ Committer: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.txt
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git branch html-Assignment1
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git checkout html-Assignment1
+Switched to branch 'html-Assignment1'
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (html-Assignment1)
+$ git commit
+On branch html-Assignment1
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (html-Assignment1)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (html-Assignment1)
+$ git commit -m "html file committed"
+On branch html-Assignment1
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (html-Assignment1)
+$ git chechout master
+git: 'chechout' is not a git command. See 'git --help'.
+
+The most similar command is
+        checkout
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (html-Assignment1)
+$ git checkout master
+Switched to branch 'master'
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git commit -m "changes made into readme file"
+On branch master
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git checkout html-Assignment1
+Switched to branch 'html-Assignment1'
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (html-Assignment1)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (html-Assignment1)
+$ git commit -m "changes done to html file"
+On branch html-Assignment1
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (html-Assignment1)
+$ git checkout master
+Switched to branch 'master'
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git merge html-Assignment1
+Already up to date.
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git branch --delete <html-Assignment1>
+bash: syntax error near unexpected token `newline'
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git branch -d html-Assignment1
+Deleted branch html-Assignment1 (was be750d9).
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git branch
+* master
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ ls
+README.txt

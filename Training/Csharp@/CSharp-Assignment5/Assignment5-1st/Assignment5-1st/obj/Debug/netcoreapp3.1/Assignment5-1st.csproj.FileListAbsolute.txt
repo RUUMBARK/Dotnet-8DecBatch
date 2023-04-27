@@ -1,0 +1,14 @@
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\bin\Debug\netcoreapp3.1\Assignment5-1st.exe
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\bin\Debug\netcoreapp3.1\Assignment5-1st.deps.json
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\bin\Debug\netcoreapp3.1\Assignment5-1st.runtimeconfig.json
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\bin\Debug\netcoreapp3.1\Assignment5-1st.runtimeconfig.dev.json
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\bin\Debug\netcoreapp3.1\Assignment5-1st.dll
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\bin\Debug\netcoreapp3.1\Assignment5-1st.pdb
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\obj\Debug\netcoreapp3.1\Assignment5-1st.csproj.AssemblyReference.cache
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\obj\Debug\netcoreapp3.1\Assignment5-1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\obj\Debug\netcoreapp3.1\Assignment5-1st.AssemblyInfoInputs.cache
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\obj\Debug\netcoreapp3.1\Assignment5-1st.AssemblyInfo.cs
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\obj\Debug\netcoreapp3.1\Assignment5-1st.csproj.CoreCompileInputs.cache
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\obj\Debug\netcoreapp3.1\Assignment5-1st.dll
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\obj\Debug\netcoreapp3.1\Assignment5-1st.pdb
+C:\Users\RUUMBARK\source\repos\Assignment5-1st\Assignment5-1st\obj\Debug\netcoreapp3.1\Assignment5-1st.genruntimeconfig.cache

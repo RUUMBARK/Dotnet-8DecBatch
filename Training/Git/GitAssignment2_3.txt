@@ -1,0 +1,72 @@
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git branch js-Assignment1
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git checkout js-Assignment1
+Switched to branch 'js-Assignment1'
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (js-Assignment1)
+$ touch sample.js
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (js-Assignment1)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (js-Assignment1)
+$ git commit -m "js first commit"
+[js-Assignment1 84d625b] js first commit
+ Committer: Umbarkar <ruchita-prakashrao.umbarkar@capgemini.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 sample.js
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (js-Assignment1)
+$ git checkout js-Assignment1
+Already on 'js-Assignment1'
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (js-Assignment1)
+$ git add .
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (js-Assignment1)
+$ git commit -m "js readme file commit"
+On branch js-Assignment1
+nothing to commit, working tree clean
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (js-Assignment1)
+$ git checkout master
+Switched to branch 'master'
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git merge js-Assignment1
+Updating be750d9..84d625b
+Fast-forward
+ sample.js | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 sample.js
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git branch
+  js-Assignment1
+* master
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git delete -d js-Assignment1
+git: 'delete' is not a git command. See 'git --help'.
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git branch -d js-Assignment1
+Deleted branch js-Assignment1 (was 84d625b).
+
+ruumbark@LIN24006770 MINGW64 ~/Assignment1 (master)
+$ git branch
+* master

@@ -1,0 +1,3 @@
+Customer Name:ruchi
+Account Number:3226
+Balance:50000
